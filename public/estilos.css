@@ -1,0 +1,111 @@
+
+
+.f{
+    width: 10cm;
+    background-color: #333;
+    border-radius: 15px;
+    border-bottom: 4px solid rgb(0, 0, 0);
+    border-right: 4px solid rgb(0, 0, 0);
+    border-top: 2px solid rgb(65, 15, 15 );
+    border-left: 2px solid  rgb(65, 15, 15)  ;
+    opacity: 85%;
+    
+
+    
+}
+
+.u{
+    text-align: left;
+    transform: translateY(8px);    
+    width: 8cm;
+    color: rgb(255, 255, 255);
+    transform: translateX(2cm);
+    
+    
+}
+
+.us{
+    border-radius: 10px;
+    width: 5.5cm;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-top: 1px solid rgb(65, 15, 15 );
+    border-left: 1px solid  rgb(65, 15, 15)  ;
+    
+}
+
+.m{
+    text-align: left;   
+    width: 8cm;
+    color: rgb(255, 255, 255);
+    transform: translateX(2cm);
+    border-radius: 10px;
+    transform-box: 10cm;
+    
+    
+}
+
+.me{
+    border-radius: 10px;
+    width: 5.5cm;
+    border-bottom: 3px solid black; 
+    border-right: 3px solid black; 
+    border-top: 1px solid rgb(65, 15, 15 );
+    border-left: 1px solid  rgb(65, 15, 15)  ;
+    
+}
+
+.btn{
+    transform: translateX(6cm);
+    margin-bottom: 1cm;
+    background-color: rgb(89, 170, 8);
+    width: 2.8cm;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-bottom: 3px solid black; 
+    border-right: 3px solid black; 
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0) ;
+}
+
+
+
+.bxs-user-circle{
+    color: rgb(255, 255, 255);
+    transform: translateY(2px);
+}
+
+.bxs-message-alt-detail{
+    color: rgb(255, 255, 255);
+    transform: translateY(3px);
+}
+
+.bx-send{
+    color: black;
+}
+
+.l{
+    background-color: rgb(242, 243, 241);
+    width: 12cm;
+    border-radius: 10px;
+    transform: translate(14cm, -10.4cm);
+    border-bottom: 3px solid black; 
+    border-right: 1px solid black; 
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 3px solid rgb(0, 0, 0) ;
+    position: unset;
+   
+}
+
+.chat{
+    text-align: center;
+    opacity: 75%;
+}
+
+.bx-message-detail {
+    color: rgb(0, 0, 0);
+    position: relative;
+    transform: translateX(3cm);
+}
+
